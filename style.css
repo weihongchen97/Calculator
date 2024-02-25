@@ -1,0 +1,19 @@
+body {
+    justify-content: flex-start;
+    text-align: center;
+    justify-items: flex-start;
+    background: darkcyan;
+}
+#container {
+    justify-content: center;
+    justify-items: center;
+}
+#numberValue{
+    text-align: center;
+}
+button{
+    margin: 5px;
+    padding: 25px;
+    color:aliceblue;
+    background-color: grey;
+}
